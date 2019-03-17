@@ -29,7 +29,8 @@ public class TestFormat {
         testFormat.print("Princess peas", 3, 3.1);
         testFormat.print("LUCK", 2, 5);
         testFormat.printTotalPrice();
-
+        byte a = 127;
+        System.out.println("----"+(int)a);
     }
 
 
